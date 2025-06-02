@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mis Enlaces</title>
-  <script src=""></script>
+  <script src="https://static-cdn.jtvnw.net/jtv_user_pictures/5d4849ed-542a-4b41-a60f-b49097b779bd-profile_image-70x70.png"></script>
 </head>
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
   <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
