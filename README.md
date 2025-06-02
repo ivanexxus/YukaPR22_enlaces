@@ -4,8 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mis Enlaces</title>
-  <script src="![IMG-20250531-WA0151](https://github.com/user-attachments/assets/d1fe819c-ef2f-4763-89f5-91b879e52445)
-"></script>
+  <script src=""></script>
 </head>
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
   <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
